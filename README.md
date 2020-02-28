@@ -7,4 +7,4 @@
 [GitHub CLI](https://github.com/cli/cli)
 
 ## Example
-`docker run --name gh --rm -it rossbannerman/gh --version`
+`docker run --name gh --rm -it rossbannerman/gh:0.5.7 --version`
